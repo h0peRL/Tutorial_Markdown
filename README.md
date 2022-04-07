@@ -3,7 +3,7 @@
 
 
 #### Wo kann ich eine Markdown-Datei erstellen?
-Es ist empfehlenswert, den Dillinger Markdown-Editor zu verwenden. Es gibt ebenfalls die Möglichkeit, GitHub oder andere Editoren zu verwenden, aber dies ist für einen Laien, der keinen GitHub-Account besitzt, schwierig. Ebenfalls hat man auf Dillinger die Möglichkeit, den Text, den man schreibt, sofort zu Formatieren. Dillinger ist [hier](https://dillinger.io) zu finden. Rufen sie diese Seite auf und Folgen sie den untenfolgenden Anweisungen.
+Es ist empfehlenswert, den Dillinger Markdown-Editor zu verwenden. Es gibt ebenfalls die Möglichkeit, GitHub oder andere Editoren zu verwenden, aber dies ist für einen Laien, der keinen GitHub-Account besitzt, schwierig. Ebenfalls hat man auf Dillinger die Möglichkeit, den Text, den man schreibt, sofort zu Formatieren. Dillinger ist [hier](https://dillinger.io) zu finden. Rufen sie diese Seite auf und Folgen sie den unten folgenden Anweisungen.
 
 #### Erstellen der Datei
 Sobald sie die Seite aufgerufen haben, die oben vermerkt ist, können sie nun mit dem Erstellen der Datei beginnen. Sie werden nun dies auf dem Bildschirm angezeigt bekommen.
